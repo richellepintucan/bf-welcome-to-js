@@ -2,6 +2,8 @@
 
 'use strict';
 
+debugger;
+
 // your answers must include ===, but can use any type
 
 debugger;
