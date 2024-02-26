@@ -34,6 +34,8 @@ console.log('programming'[10] === _); // true
 
 'use strict';
 
+debugger;
+
 console.log('-- accessing characters in a string by index --');
 
 // examples
