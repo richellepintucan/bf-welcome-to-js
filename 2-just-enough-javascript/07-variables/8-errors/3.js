@@ -9,5 +9,5 @@ debugger;
 let favoriteVegetable = 'potato';
 console.log(favoriteVegetable); // 'potato'
 
-favoriteVegetable2 = 'carrot';
+favoriteVegetable = 'carrot';
 console.log(favoriteVegetable); // 'carrot'

@@ -2,6 +2,8 @@
 
 'use strict';
 
+debugger;
+
 /* parsons-collapse: hint
 
   1. declare first name
@@ -12,9 +14,8 @@
 
 */
 
-debugger;
-
 let first = 'angus';
+
 let last = 'croll';
 
 let greeting = 'hello ' + first + ' ' + last;
