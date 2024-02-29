@@ -1,3 +1,5 @@
+// #todo
+
 'use strict';
 
 debugger;
@@ -31,5 +33,3 @@ console.log(temp === 'x');
 a = c; // distractor
 b === temp; // distractor
 a === 'y'; // distractor
-
-// #todo
