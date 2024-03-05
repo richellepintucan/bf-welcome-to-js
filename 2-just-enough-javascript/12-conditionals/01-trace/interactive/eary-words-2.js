@@ -2,6 +2,8 @@
 
 'use strict';
 
+debugger;
+
 let input = prompt('enter something with "ear" in it');
 
 let message;

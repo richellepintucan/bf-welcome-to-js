@@ -2,6 +2,8 @@
 
 'use strict';
 
+debugger;
+
 let input = prompt('enter something');
 
 let response;

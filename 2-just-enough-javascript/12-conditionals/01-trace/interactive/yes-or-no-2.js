@@ -2,6 +2,8 @@
 
 'use strict';
 
+debugger;
+
 let didConfirm = confirm('yes?');
 
 let message;

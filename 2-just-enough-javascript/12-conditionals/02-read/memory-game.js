@@ -2,6 +2,8 @@
 
 'use strict';
 
+debugger;
+
 let thingToRemember = prompt(
   'enter some text, then remember it.\n\n' +
     'if you remember it correctly you win',

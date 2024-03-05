@@ -1,5 +1,7 @@
 'use strict';
 
+debugger;
+
 /*
 
   Trace the following code by commenting and uncommenting the different values for the 'weather' variable.
@@ -8,7 +10,7 @@
 
 */
 
-let weather = 'spring';
+let weather = 'holidays';
 // let weather = "summer";
 // let weather = "winter";
 // let weather = "fall";

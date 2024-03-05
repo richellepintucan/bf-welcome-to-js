@@ -6,6 +6,8 @@
 
 'use strict';
 
+debugger;
+
 
 let name = prompt("what is your name?");
 
