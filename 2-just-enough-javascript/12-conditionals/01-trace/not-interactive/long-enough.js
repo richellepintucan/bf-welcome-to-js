@@ -2,7 +2,9 @@
 
 'use strict';
 
-let word = 'a';
+debugger;
+
+let word = 'banana';
 // let word = 'be';
 // let word = 'sea';
 // let word = 'frog';
