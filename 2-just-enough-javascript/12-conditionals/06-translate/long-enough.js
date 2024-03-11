@@ -1,6 +1,9 @@
 // #todo
 
 'use strict';
+
+debugger;
+
 /*
 
 
@@ -35,3 +38,20 @@
 /* ---   ?   --- */
 
 // alert(message)
+
+const userInput = prompt('enter anything longer than 5 characters ');
+
+let message = '';
+if (userInput !== null) {
+  if (userInput.length < 5) {
+    message = 'too short';
+  } else if (userInput.length > 5) {
+    message = 'long enough';
+  } else {
+    message = 'exactly 5!';
+  }
+} else {
+  message = 'you canceled :(';
+}
+
+alert(message);
