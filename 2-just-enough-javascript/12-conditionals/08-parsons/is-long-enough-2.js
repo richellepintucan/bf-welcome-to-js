@@ -1,5 +1,7 @@
 'use strict';
 
+debugger;
+
 
 /* parsons-collapse: hint
   1. gather input

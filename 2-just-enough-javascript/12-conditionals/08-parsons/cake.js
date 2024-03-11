@@ -1,5 +1,7 @@
 'use strict';
 
+debugger;
+
 /* parsons-collapse: hint
 
   0. strict mode!
@@ -24,8 +26,9 @@ if (likesCake === true) {
 alert(message);
 
 // --- distractors ---
-
+/*
 } // distractor
 { // distractor
 ] else [ // distractor
 if likesCake === true: // distractor
+*/

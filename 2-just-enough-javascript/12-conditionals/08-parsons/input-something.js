@@ -1,5 +1,6 @@
 'use strict';
 
+debugger;
 
 /* parsons-collapse: hint
   1. gather user input
@@ -9,30 +10,24 @@
     c. their input
 */
 
-
-
 let userInput = prompt('please input something');
 
-
 if (userInput === null) {
-  alert (':(');
+  alert(':(');
 } else if (userInput === '') {
-  alert ('nothing!  why !!! ??? !!!');
+  alert('nothing!  why !!! ??? !!!');
 } else {
-  alert ('you inputted: ' + userInput);
+  alert('you inputted: ' + userInput);
 }
-
-
 
 // begin distractors
 
-let userInput = alert('please input something'); // distractor
+/*let userInput = alert('please input something'); // distractor
 
 if (userInput = null) { // distractor
 
-} else if (userInput = '') { // distractor
+} else if (userInput = '') { // distractor 
 
-} else (userInput === '') { // distractor
-
+} else (userInput === '') { // distractor */
 
 // #todo
